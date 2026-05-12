@@ -1,0 +1,8 @@
+{
+  "name": "DriveLink SA",
+  "description": "Professional Android taxi and minibus driver app targeting South Africa, featuring load shedding alerts, earnings tracker, and simulated ride requests.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
